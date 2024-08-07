@@ -1,2 +1,3 @@
 # Nuevo-PrepHenry
-Este es un repositorio del modulo2 de Henry
+Este es una prueva de como crear un repositorio y clonarlo desde GibHub a mi computadora local!
+
